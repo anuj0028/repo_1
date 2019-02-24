@@ -1,2 +1,3 @@
 Learning git and making folders and files using git command
+Adding some text on the same file
 
